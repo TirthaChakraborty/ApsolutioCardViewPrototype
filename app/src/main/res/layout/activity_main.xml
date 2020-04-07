@@ -189,21 +189,23 @@
                     android:textStyle="bold"
 
                     android:textAlignment="center" />
+
                 <TextView
                     android:id="@+id/tv_item1_2"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Rs 1.20 crore"
+                    android:textAlignment="center"
                     android:textSize="15sp"
-                    android:textStyle="bold"
-                    android:textAlignment="center" />
+                    android:textStyle="bold" />
+
                 <TextView
                     android:id="@+id/tv_item1_3"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="29th Jan,2020, 5:08pm"
-                    android:textSize="10dp"
-                    android:textAlignment="center" />
+                    android:textAlignment="center"
+                    android:textSize="10dp" />
 
 
 
@@ -234,6 +236,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+
                     android:layout_gravity="center_horizontal"
                     android:src="@drawable/ic_inv"
                     app:srcCompat="@drawable/ic_inv" />
@@ -248,19 +251,22 @@
 
                 <TextView
                     android:id="@+id/tv_item2_2"
-                    android:layout_width="wrap_content"
+                    android:layout_width="128dp"
                     android:layout_height="wrap_content"
+
+
                     android:text="Rs 10 crore"
+                    android:textAlignment="center"
                     android:textSize="15sp"
-                    android:textStyle="bold"
-                    android:textAlignment="center" />
+                    android:textStyle="bold" />
+
                 <TextView
                     android:id="@+id/tv_item2_3"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="29th Jan,2020, 5:08pm"
-                    android:textSize="10sp"
-                    android:textAlignment="center" />
+                    android:textAlignment="center"
+                    android:textSize="10sp" />
 
 
             </LinearLayout>
@@ -301,21 +307,23 @@
                     android:text="Other Assets Value"
                     android:textStyle="bold"
                     android:textAlignment="center" />
+
                 <TextView
                     android:id="@+id/tv_item3_2"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Rs 5 crore"
+                    android:textAlignment="center"
                     android:textSize="15sp"
-                    android:textStyle="bold"
-                    android:textAlignment="center" />
+                    android:textStyle="bold" />
+
                 <TextView
                     android:id="@+id/tv_item3_3"
-                    android:layout_width="wrap_content"
+                    android:layout_width="128dp"
                     android:layout_height="wrap_content"
                     android:text="29th Jan,2020, 5:08pm"
-                    android:textSize="10sp"
-                    android:textAlignment="center" />
+                    android:textAlignment="center"
+                    android:textSize="10sp" />
 
 
             </LinearLayout>
@@ -358,12 +366,12 @@
 
                 <TextView
                     android:id="@+id/tv_item4_2"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Rs 2 crore"
+                    android:textAlignment="center"
                     android:textSize="15sp"
-                    android:textStyle="bold"
-                    android:textAlignment="center" />
+                    android:textStyle="bold" />
                 <TextView
                     android:id="@+id/tv_item4_3"
                     android:layout_width="wrap_content"
