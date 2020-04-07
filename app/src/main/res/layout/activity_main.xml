@@ -9,7 +9,7 @@
     tools:context="com.example.apsolutiocardviewproject.MainActivity">
 
     <androidx.cardview.widget.CardView
-      android:layout_height="220dp"
+      android:layout_height="220sp"
         android:layout_width="match_parent"
       >
 
@@ -53,7 +53,7 @@
                 android:layout_marginEnd="8sp"
                 android:text="Your Net Worth is"
                 android:textAlignment="center"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.585"
@@ -125,10 +125,10 @@
 
             <TextView
                 android:id="@+id/textView6"
-                android:layout_width="66dp"
-                android:layout_height="17dp"
+                android:layout_width="66sp"
+                android:layout_height="17sp"
                 android:layout_marginStart="8sp"
-                android:layout_marginTop="8dp"
+                android:layout_marginTop="8sp"
                 android:layout_marginEnd="8sp"
                 android:text="Aritro"
                 android:textAlignment="center"
@@ -143,7 +143,7 @@
 
     <GridLayout
         android:layout_width="match_parent"
-        android:layout_height="451dp"
+        android:layout_height="451sp"
         android:layout_weight="8"
         android:alignmentMode="alignMargins"
         android:columnCount="2"
@@ -156,8 +156,8 @@
 
         <androidx.cardview.widget.CardView
 
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            android:layout_width="0sp"
+            android:layout_height="0sp"
             android:layout_rowWeight="1.5"
             android:layout_columnWeight="1"
             android:layout_marginLeft="16sp"
@@ -170,7 +170,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal|center_vertical"
-                android:layout_margin="16dp"
+                android:layout_margin="16sp"
                 android:orientation="vertical">
 
                 <ImageView
@@ -194,7 +194,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Rs 1.20 crore"
-                    android:textSize="15dp"
+                    android:textSize="15sp"
                     android:textStyle="bold"
                     android:textAlignment="center" />
                 <TextView
@@ -214,8 +214,8 @@
 
         <!--Column2-->
         <androidx.cardview.widget.CardView
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            android:layout_width="0sp"
+            android:layout_height="0sp"
             android:layout_rowWeight="1.5"
             android:layout_columnWeight="1"
             android:layout_marginLeft="16sp"
@@ -251,7 +251,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Rs 10 crore"
-                    android:textSize="15dp"
+                    android:textSize="15sp"
                     android:textStyle="bold"
                     android:textAlignment="center" />
                 <TextView
@@ -259,7 +259,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="29th Jan,2020, 5:08pm"
-                    android:textSize="10dp"
+                    android:textSize="10sp"
                     android:textAlignment="center" />
 
 
@@ -270,8 +270,8 @@
         <!--Row2-->
         <!--Column1-->
         <androidx.cardview.widget.CardView
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            android:layout_width="0sp"
+            android:layout_height="0sp"
             android:layout_rowWeight="1.5"
             android:layout_columnWeight="1"
             android:layout_marginLeft="16sp"
@@ -306,7 +306,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Rs 5 crore"
-                    android:textSize="15dp"
+                    android:textSize="15sp"
                     android:textStyle="bold"
                     android:textAlignment="center" />
                 <TextView
@@ -314,7 +314,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="29th Jan,2020, 5:08pm"
-                    android:textSize="10dp"
+                    android:textSize="10sp"
                     android:textAlignment="center" />
 
 
@@ -324,8 +324,8 @@
 
         <!--Column2-->
         <androidx.cardview.widget.CardView
-            android:layout_width="0dp"
-            android:layout_height="0dp"
+            android:layout_width="0sp"
+            android:layout_height="0sp"
             android:layout_rowWeight="1.5"
             android:layout_columnWeight="1"
             android:layout_marginLeft="16sp"
@@ -338,7 +338,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal|center_vertical"
-                android:layout_margin="16dp"
+                android:layout_margin="16sp"
                 android:orientation="vertical">
 
                 <ImageView
@@ -361,7 +361,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Rs 2 crore"
-                    android:textSize="15dp"
+                    android:textSize="15sp"
                     android:textStyle="bold"
                     android:textAlignment="center" />
                 <TextView
@@ -369,7 +369,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="29th Jan,2020, 5:08pm"
-                    android:textSize="10dp"
+                    android:textSize="10sp"
                     android:textAlignment="center" />
 
 
